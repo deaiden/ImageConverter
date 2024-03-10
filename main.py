@@ -3,7 +3,7 @@ import os
 
 # Define the image path
 username = os.getlogin()
-img_filename = 'Vegapunk.Png'  # Replace 'your_image.jpg' with your actual image file name
+img_filename = 'YourImage.Blah'  # Replace 'your_image.jpg' with your actual image file name
 img_path = f'C:\\Users\\{username}\\Pictures\\Python\\{img_filename}'
 
 # Open the image file
